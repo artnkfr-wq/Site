@@ -1,6 +1,6 @@
  .u-section-1 {
-  background-position: 50% 50%, 50% 50%;
-  background-repeat: no-repeat, no-repeat;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
@@ -183,9 +183,9 @@
 .u-section-1 .u-image-1.u-image-1.u-image-1.hover {
   transform: scale(1.1) translateX(0px) translateY(0px) !important;
 } .u-section-2 {
-  background-position: 50% 50%, 50% 50%;
-  background-repeat: no-repeat, no-repeat;
-  background-size: cover, cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -274,9 +274,9 @@
 .u-section-2 .u-image-1.u-image-1.u-image-1.hover {
   transform: scale(1.1) translateX(0px) translateY(0px) !important;
 } .u-section-3 {
-  background-position: 50% 50%, 50% 50%;
-  background-repeat: no-repeat, no-repeat;
-  background-size: cover, cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .u-section-3 .u-sheet-1 {

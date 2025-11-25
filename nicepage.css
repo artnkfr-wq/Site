@@ -48941,24 +48941,11 @@ a.u-link.u-text-hover-color-var:hover {
 
 /*end-variables sitestylecss*/
 .u-header .u-sheet-1 {
-  min-height: 95px;
-}
-
-.u-header .u-menu-1 {
-  margin: 60px 0 0 auto;
-}
-
-.u-header .u-nav-1 {
-  font-size: 1rem;
-  letter-spacing: normal;
-}
-
-.u-header .u-nav-2 {
-  font-size: 1.25rem;
+  min-height: 67px;
 }
 
 .u-header .u-language-1 {
-  margin: -36px auto 4px;
+  margin: 18px auto 0;
 }
 
 .u-header .u-icon-1 {
@@ -48968,48 +48955,65 @@ a.u-link.u-text-hover-color-var:hover {
 .u-header .u-icon-2 {
   height: 32px;
 }
+
+.u-header .u-menu-1 {
+  margin: -19px 0 0 auto;
+}
+
+.u-header .u-nav-1 {
+  font-size: 1rem;
+}
+
+.u-header .u-nav-2 {
+  font-size: 1.25rem;
+}
 @media (max-width: 1199px) {
-  .u-header .u-menu-1 {
-    width: auto;
+  .u-header .u-language-1 {
+    margin-top: 17px;
   }
 
-  .u-header .u-language-1 {
-    margin-top: -36px;
+  .u-header .u-menu-1 {
+    width: auto;
+    margin-top: -19px;
+    margin-bottom: 0;
+  }
+
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
-    min-height: 120px;
+    min-height: 60px;
+  }
+
+  .u-header .u-language-1 {
+    margin-top: 14px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: 90px;
-  }
-
-  .u-header .u-language-1 {
-    margin-top: -37px;
-    margin-bottom: 3px;
+    margin-top: -18px;
+    margin-right: 38px;
   }
 }
 @media (max-width: 767px) {
-  .u-header .u-language-1 {
-    margin-top: -37px;
-    margin-bottom: 3px;
+  .u-header .u-menu-1 {
+    margin-top: -18px;
+    margin-right: 38px;
   }
 }
 @media (max-width: 575px) {
-  .u-header .u-language-1 {
-    margin-top: -37px;
-    margin-bottom: 3px;
+  .u-header .u-menu-1 {
+    margin-right: 35px;
   }
 }
 .u-footer .u-sheet-1 {
-  min-height: 60px;
+  min-height: 66px;
 }
 
 .u-footer .u-text-1 {
   width: 417px;
-  margin: 19px auto;
+  margin: 24px auto 20px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-text-1 {
@@ -49023,7 +49027,6 @@ a.u-link.u-text-hover-color-var:hover {
   }
 
   .u-footer .u-text-1 {
-    margin-top: 24px;
     margin-bottom: 23px;
   }
 }
@@ -49034,7 +49037,6 @@ a.u-link.u-text-hover-color-var:hover {
 
   .u-footer .u-text-1 {
     width: 340px;
-    margin-top: 19px;
   }
 }
 

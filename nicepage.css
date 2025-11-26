@@ -48969,10 +48969,6 @@ a.u-link.u-text-hover-color-var:hover {
   font-size: 1.25rem;
 }
 @media (max-width: 1199px) {
-  .u-header .u-language-1 {
-    margin-top: 17px;
-  }
-
   .u-header .u-menu-1 {
     width: auto;
     margin-top: -19px;
@@ -48982,10 +48978,6 @@ a.u-link.u-text-hover-color-var:hover {
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
     min-height: 60px;
-  }
-
-  .u-header .u-language-1 {
-    margin-top: 14px;
   }
 
   .u-header .u-menu-1 {

@@ -48941,11 +48941,11 @@ a.u-link.u-text-hover-color-var:hover {
 
 /*end-variables sitestylecss*/
 .u-header .u-sheet-1 {
-  min-height: 67px;
+  min-height: 68px;
 }
 
 .u-header .u-language-1 {
-  margin: 18px auto 0;
+  margin: 18px auto 0 0;
 }
 
 .u-header .u-icon-1 {
@@ -48957,7 +48957,7 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -19px 0 0 auto;
+  margin: -19px -1px 0 auto;
 }
 
 .u-header .u-nav-1 {
@@ -48972,6 +48972,7 @@ a.u-link.u-text-hover-color-var:hover {
   .u-header .u-menu-1 {
     width: auto;
     margin-top: -19px;
+    margin-right: -1px;
     margin-bottom: 0;
   }
 }

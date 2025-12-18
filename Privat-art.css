@@ -107,7 +107,7 @@
   }
 
   .u-section-2 .u-text-1 {
-    margin: 40px 210px 9px 61px;
+    margin: 40px 271px 9px 0;
   }
 }
 
@@ -117,7 +117,9 @@
   }
 
   .u-section-2 .u-text-1 {
-    margin: 20px 91px 20px 0;
+    margin-top: 20px;
+    margin-right: 91px;
+    margin-bottom: 20px;
   }
 }
 
